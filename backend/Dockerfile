@@ -7,7 +7,7 @@ WORKDIR /app
 
 # Копируем код
 COPY ./backend /app/backend
-COPY ./GET_DATA /app/GET_DATA   # ⬅️ вот это обязательно!
+COPY ./GET_DATA /app/GET_DATA   
 
 # Устанавливаем зависимости
 RUN pip install --no-cache-dir -r /app/backend/requirements.txt
