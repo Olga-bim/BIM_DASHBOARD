@@ -11,7 +11,8 @@ COPY frontend/package*.json ./
 RUN npm install
 
 # Копируем весь frontend
-COPY frontend/ .
+COPY . .
+
 
 # Открываем порт для React
 EXPOSE 3000
