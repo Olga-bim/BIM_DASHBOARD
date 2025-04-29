@@ -1,21 +1,20 @@
-# Используем Node.js 16
+# Используем официальный Node.js
 FROM node:16
 
 # Устанавливаем рабочую директорию
 WORKDIR /app
 
 # Копируем package.json и package-lock.json
-COPY frontend/package*.json ./
+COPY package*.json ./
 
 # Устанавливаем зависимости
 RUN npm install
 
-# Копируем весь frontend
+# Копируем весь код приложения
 COPY . .
 
-
-# Открываем порт для React
+# Указываем порт
 EXPOSE 3000
 
-# Команда запуска
+# Запуск приложения
 CMD ["npm", "start"]
