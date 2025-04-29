@@ -5,12 +5,14 @@ import {
 } from "@mui/material";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import ForgeViewer from "../../components/ForgeViewer";
+const apiUrl = process.env.REACT_APP_API_URL || "${apiUrl}";
 
 export default function GuidsTable() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:8000/api/views-table")
+    fetch(`${apiUrl}/api/views-table`)
+
       .then((res) => res.json())
       .then(setData)
       .catch((err) => console.error("Ошибка загрузки видов:", err));
@@ -82,3 +84,4 @@ export default function GuidsTable() {
     </Box>
   );
 }
+

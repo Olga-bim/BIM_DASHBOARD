@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { Box, Typography, Paper, Grid, useTheme } from "@mui/material";
 import { motion } from "framer-motion";
 
+
 // 🔹 Карточка с анимацией
 const MotionCard = ({ to, color, icon, label }) => (
   <Grid item xs={12} sm={6} md={4}>
@@ -88,3 +89,4 @@ const Project = () => {
 };
 
 export default Project;
+

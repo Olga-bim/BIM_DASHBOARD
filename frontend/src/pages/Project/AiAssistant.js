@@ -7,6 +7,7 @@ import {
   Paper,
   Divider
 } from "@mui/material";
+const apiUrl = process.env.REACT_APP_API_URL || "${apiUrl}";
 
 export default function AiAssistant() {
   const [question, setQuestion] = useState("");
@@ -21,7 +22,8 @@ export default function AiAssistant() {
     setLoading(true);
 
     try {
-      const res = await fetch("http://localhost:8000/api/chat", {
+      const res = await fetch(`${apiUrl}/api/chat`, {
+
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ question })
@@ -100,3 +102,4 @@ export default function AiAssistant() {
     </Box>
   );
 }
+

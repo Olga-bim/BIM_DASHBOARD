@@ -5,7 +5,7 @@ export default function ForgeViewer({ urn, guid, height = 300 }) {
   const [token, setToken] = useState(null);
 
   useEffect(() => {
-    fetch("http://localhost:8000/api/token")
+    fetch("${apiUrl}/api/token")
       .then((res) => res.json())
       .then((data) => setToken(data.access_token))
       .catch((err) => console.error("Ошибка получения токена:", err));
@@ -42,3 +42,4 @@ export default function ForgeViewer({ urn, guid, height = 300 }) {
 
   return <div ref={viewerRef} style={{ height: `${height}px`, width: "100%", border: "1px solid #ccc", borderRadius: "8px", marginBottom: "1rem" }} />;
 }
+

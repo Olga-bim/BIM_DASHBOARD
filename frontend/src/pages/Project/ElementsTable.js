@@ -3,6 +3,7 @@ import {
   Box, Typography, MenuItem, Select, FormControl,
   InputLabel, Table, TableHead, TableBody, TableRow, TableCell, Paper
 } from "@mui/material";
+const apiUrl = process.env.REACT_APP_API_URL || "http://localhost:8000";
 
 const ElementsExplorer = () => {
   const [projects, setProjects] = useState([]);
@@ -18,7 +19,7 @@ const ElementsExplorer = () => {
 
   // Загрузка проектов
   useEffect(() => {
-    fetch("http://localhost:8000/api/projects-list")
+    fetch(`${apiUrl}/api/projects-list`)
       .then(res => res.json())
       .then(setProjects);
   }, []);
@@ -26,7 +27,7 @@ const ElementsExplorer = () => {
   // Загрузка файлов по проекту
   useEffect(() => {
     if (!selectedProject) return;
-    fetch(`http://localhost:8000/api/files-by-project?project=${selectedProject}`)
+    fetch(`${apiUrl}/api/files-by-project?project=${selectedProject}`)
       .then(res => res.json())
       .then(setFiles);
   }, [selectedProject]);
@@ -34,7 +35,7 @@ const ElementsExplorer = () => {
   // Загрузка версий и видов
   useEffect(() => {
     if (!selectedProject || !selectedFile) return;
-    fetch(`http://localhost:8000/api/views-3d?project=${selectedProject}&file_name=${selectedFile}`)
+    fetch(`${apiUrl}/api/views-3d?project=${selectedProject}&file_name=${selectedFile}`)
       .then(res => res.json())
       .then(data => {
         const uniqueVersions = [...new Set(data.map(v => v.version_number))];
@@ -46,7 +47,7 @@ const ElementsExplorer = () => {
   // Загрузка элементов по выбранному виду
   useEffect(() => {
     if (!selectedProject || !selectedFile || !selectedVersion || !selectedView) return;
-    fetch(`http://localhost:8000/api/elements-by-view?project=${selectedProject}&file_name=${selectedFile}&version=${selectedVersion}&view_name=${selectedView}`)
+    fetch(`${apiUrl}/api/elements-by-view?project=${selectedProject}&file_name=${selectedFile}&version=${selectedVersion}&view_name=${selectedView}`)
       .then(res => res.json())
       .then(setElements);
   }, [selectedView]);

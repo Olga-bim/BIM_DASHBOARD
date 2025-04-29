@@ -5,6 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Link } from "react-router-dom";
 import html2pdf from "html2pdf.js";
 
+
 const bimSections = [
   {
     title: "📁 BIM 360 / ACC: Получение данных из моделей",
@@ -408,3 +409,4 @@ const Home = () => {
 };
 
 export default Home;
+

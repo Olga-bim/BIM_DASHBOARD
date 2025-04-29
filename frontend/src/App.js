@@ -14,6 +14,8 @@ import { motion } from "framer-motion";
 import { FaHome, FaUserAlt, FaProjectDiagram } from "react-icons/fa";
 import "./App.css"; // стили
 
+
+
 function App() {
   useEffect(() => {
     const interval = setInterval(() => {
@@ -99,3 +101,4 @@ function App() {
 }
 
 export default App;
+

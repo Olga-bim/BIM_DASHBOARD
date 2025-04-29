@@ -9,6 +9,7 @@ import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
 import "../../styles/alerts.css";
+const apiUrl = process.env.REACT_APP_API_URL || "${apiUrl}";
 
 const customIcon = new L.Icon({
   iconUrl: "/assets/marker-3d.png",
@@ -60,7 +61,8 @@ export default function MapPage() {
   };
 
   useEffect(() => {
-    fetch("http://localhost:8000/api/coordinates")
+    fetch(`${apiUrl}/api/coordinates`)
+
       .then(res => res.json())
       .then(async (data) => {
         setPoints(data);
@@ -89,7 +91,7 @@ export default function MapPage() {
   };
 
   const fetchDesigners = (projectName) => {
-    fetch(`http://localhost:8000/api/designers?project=${projectName}`)
+    fetch(`${apiUrl}/api/designers?project=${projectName}`)
       .then(res => res.json())
       .then(data => {
         setSelectedProject(projectName);
@@ -123,8 +125,9 @@ export default function MapPage() {
     const payload = { ...newDesigner, project_name: selectedProject, discipline };
 
     const url = isEditing
-      ? `http://localhost:8000/api/designers/${selectedProject}/${editId}`
-      : "http://localhost:8000/api/designers";
+      ? `${apiUrl}/api/designers/${selectedProject}/${editId}`
+      : `${apiUrl}/api/designers`;
+
     const method = isEditing ? "PUT" : "POST";
 
     fetch(url, {
@@ -141,7 +144,7 @@ export default function MapPage() {
 
   const handleDelete = (id) => {
     if (!window.confirm("Удалить проектировщика?")) return;
-    fetch(`http://localhost:8000/api/designers/${selectedProject}/${id}`, {
+    fetch(`${apiUrl}/api/designers/${selectedProject}/${id}`, {
       method: "DELETE"
     }).then(() => {
       fetchDesigners(selectedProject);
@@ -412,3 +415,4 @@ export default function MapPage() {
     </Box>
   );
 }
+

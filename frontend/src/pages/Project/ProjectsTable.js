@@ -17,6 +17,7 @@ import {
   FormControl,
 } from "@mui/material";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+const apiUrl = process.env.REACT_APP_API_URL || "${apiUrl}";
 
 export default function ProjectsTable() {
   const [data, setData] = useState([]);
@@ -26,7 +27,8 @@ export default function ProjectsTable() {
   const [disciplines, setDisciplines] = useState({});
 
   useEffect(() => {
-    fetch("http://localhost:8000/api/projects-table")
+    fetch(`${apiUrl}/api/projects-table`)
+
       .then(res => res.json())
       .then((raw) => {
         const grouped = {};
@@ -118,3 +120,4 @@ export default function ProjectsTable() {
 </Box>
   );
 }
+
