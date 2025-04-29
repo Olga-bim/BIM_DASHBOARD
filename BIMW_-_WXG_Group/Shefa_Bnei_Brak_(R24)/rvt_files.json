@@ -1,0 +1,285 @@
+{
+    "project_id": "b.367359c6-438a-4f73-86f1-5d5a055af17f",
+    "rvt_files": [
+        {
+            "name": "SBB_AR_CAPSULE.rvt",
+            "id": "urn:adsk.wipprod:dm.lineage:lo1s9iBQQQmLdCXWBrwzFA",
+            "versions": [
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.lo1s9iBQQQmLdCXWBrwzFA?version=2",
+                    "version_number": 2,
+                    "last_modified_time": "2025-02-27T11:02:34.0000000Z",
+                    "last_modified_user": "Dima Abdu",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6d2lwLmRtLnByb2QvNDg1NDFhMTAtYjU3NC00NGViLWJhYTUtOGJkOTRjMDU0ZmNiLnJ2dA"
+                },
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.lo1s9iBQQQmLdCXWBrwzFA?version=1",
+                    "version_number": 1,
+                    "last_modified_time": "2025-02-27T10:58:34.0000000Z",
+                    "last_modified_user": "Dima Abdu",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "Нет данных"
+                }
+            ]
+        },
+        {
+            "name": "SBB_AR_MAIN.rvt",
+            "id": "urn:adsk.wipprod:dm.lineage:8dqQi8wrTIqDQ-Q3pqSnow",
+            "versions": [
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.8dqQi8wrTIqDQ-Q3pqSnow?version=2",
+                    "version_number": 2,
+                    "last_modified_time": "2025-03-24T11:44:04.0000000Z",
+                    "last_modified_user": "emi marom",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6d2lwLmRtLnByb2QvZTNjOTgyMmEtZGRhMi00NTJjLTg3YjQtNGZlZTBjZjYyZDgyLnJ2dA"
+                },
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.8dqQi8wrTIqDQ-Q3pqSnow?version=1",
+                    "version_number": 1,
+                    "last_modified_time": "2025-03-24T11:40:18.0000000Z",
+                    "last_modified_user": "emi marom",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "Нет данных"
+                }
+            ]
+        },
+        {
+            "name": "SBB_BS_AR חלופה 2.rvt",
+            "id": "urn:adsk.wipprod:dm.lineage:qp1DbC2xQdekaA5vm2fWJA",
+            "versions": [
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.qp1DbC2xQdekaA5vm2fWJA?version=3",
+                    "version_number": 3,
+                    "last_modified_time": "2025-03-23T08:56:25.0000000Z",
+                    "last_modified_user": "emi marom",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6d2lwLmRtLnByb2QvMWJlYjE3NzAtMGVjOS00MWY3LWE2ODgtZGVkNDkyNzEyMTEzLnJ2dA"
+                },
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.qp1DbC2xQdekaA5vm2fWJA?version=2",
+                    "version_number": 2,
+                    "last_modified_time": "2025-03-12T09:43:51.0000000Z",
+                    "last_modified_user": "emi marom",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6d2lwLmRtLnByb2QvYTllYWVjOGUtOTJhMi00ZGZmLTlhYmYtZTMyNDQxOGI1ZjJlLnJ2dA"
+                },
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.qp1DbC2xQdekaA5vm2fWJA?version=1",
+                    "version_number": 1,
+                    "last_modified_time": "2025-03-12T09:38:54.0000000Z",
+                    "last_modified_user": "emi marom",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "Нет данных"
+                }
+            ]
+        },
+        {
+            "name": "SBB_BS_AR.rvt",
+            "id": "urn:adsk.wipprod:dm.lineage:Lft88LGVRRSENsYV9nYBnw",
+            "versions": [
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.Lft88LGVRRSENsYV9nYBnw?version=3",
+                    "version_number": 3,
+                    "last_modified_time": "2025-03-12T09:23:41.0000000Z",
+                    "last_modified_user": "emi marom",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6d2lwLmRtLnByb2QvMDAwMTJkYTAtZTkyNS00MDRmLThjMTItYWNmMzU1Y2EyMmU3LnJ2dA"
+                },
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.Lft88LGVRRSENsYV9nYBnw?version=2",
+                    "version_number": 2,
+                    "last_modified_time": "2025-02-27T08:38:39.0000000Z",
+                    "last_modified_user": "emi marom",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6d2lwLmRtLnByb2QvMjQ5MmIxZDEtMTIxZi00NzU1LTg3NTctYWMzNzRmYTNhZjA3LnJ2dA"
+                },
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.Lft88LGVRRSENsYV9nYBnw?version=1",
+                    "version_number": 1,
+                    "last_modified_time": "2025-02-25T10:59:52.0000000Z",
+                    "last_modified_user": "emi marom",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "Нет данных"
+                }
+            ]
+        },
+        {
+            "name": "SHEFABB_B_A.rvt",
+            "id": "urn:adsk.wipprod:dm.lineage:Aqx1wYUaTZOIx7Y0yCUd4g",
+            "versions": [
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.Aqx1wYUaTZOIx7Y0yCUd4g?version=2",
+                    "version_number": 2,
+                    "last_modified_time": "2025-02-27T11:19:43.0000000Z",
+                    "last_modified_user": "Dima Abdu",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6d2lwLmRtLnByb2QvYjdjYTVmYmMtOGJiYy00OWMzLTlkNmItZDVmMWNiNDExYjUxLnJ2dA"
+                },
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.Aqx1wYUaTZOIx7Y0yCUd4g?version=1",
+                    "version_number": 1,
+                    "last_modified_time": "2025-02-27T11:12:47.0000000Z",
+                    "last_modified_user": "Dima Abdu",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "Нет данных"
+                }
+            ]
+        },
+        {
+            "name": "SHEFABB_B_B1.rvt",
+            "id": "urn:adsk.wipprod:dm.lineage:lOvVCWDgS32Nfm_SkYXalw",
+            "versions": [
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.lOvVCWDgS32Nfm_SkYXalw?version=2",
+                    "version_number": 2,
+                    "last_modified_time": "2025-02-27T12:21:46.0000000Z",
+                    "last_modified_user": "Dima Abdu",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6d2lwLmRtLnByb2QvOGEwN2RhNzctYWI1My00Y2QwLTlkN2EtNjU4YTU2NmRjZGQyLnJ2dA"
+                },
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.lOvVCWDgS32Nfm_SkYXalw?version=1",
+                    "version_number": 1,
+                    "last_modified_time": "2025-02-27T12:16:40.0000000Z",
+                    "last_modified_user": "Dima Abdu",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "Нет данных"
+                }
+            ]
+        },
+        {
+            "name": "SHEFABB_B_B2.rvt",
+            "id": "urn:adsk.wipprod:dm.lineage:5I1dYi7OTim2qzaZaSk2gg",
+            "versions": [
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.5I1dYi7OTim2qzaZaSk2gg?version=2",
+                    "version_number": 2,
+                    "last_modified_time": "2025-02-27T14:18:21.0000000Z",
+                    "last_modified_user": "Dima Abdu",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6d2lwLmRtLnByb2QvMTQ3NzlmYjktNzdiYS00MjVjLTgzOGMtYTI1YTY0N2E4ZDdiLnJ2dA"
+                },
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.5I1dYi7OTim2qzaZaSk2gg?version=1",
+                    "version_number": 1,
+                    "last_modified_time": "2025-02-27T14:13:58.0000000Z",
+                    "last_modified_user": "Dima Abdu",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "Нет данных"
+                }
+            ]
+        },
+        {
+            "name": "SHEFABB_B_C.rvt",
+            "id": "urn:adsk.wipprod:dm.lineage:7s8vri2GQuKxkud1r_98jw",
+            "versions": [
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.7s8vri2GQuKxkud1r_98jw?version=2",
+                    "version_number": 2,
+                    "last_modified_time": "2025-02-27T11:56:59.0000000Z",
+                    "last_modified_user": "Dima Abdu",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6d2lwLmRtLnByb2QvOWY5MGVjNjYtMWEzOS00MWRjLWIyZjUtZGViMjFlMDg2NDY1LnJ2dA"
+                },
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.7s8vri2GQuKxkud1r_98jw?version=1",
+                    "version_number": 1,
+                    "last_modified_time": "2025-02-27T11:52:13.0000000Z",
+                    "last_modified_user": "Dima Abdu",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "Нет данных"
+                }
+            ]
+        },
+        {
+            "name": "SBB_LD_MAIN.rvt",
+            "id": "urn:adsk.wipprod:dm.lineage:BJzzC3mUSTS8B2_tmzQ92g",
+            "versions": [
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.BJzzC3mUSTS8B2_tmzQ92g?version=2",
+                    "version_number": 2,
+                    "last_modified_time": "2025-03-02T06:33:05.0000000Z",
+                    "last_modified_user": "Eyal Tzroya",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6d2lwLmRtLnByb2QvNzRkYjk2MjQtNmExYy00MTUxLTg4YjItNGI0YmVjN2RjMjk4LnJ2dA"
+                },
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.BJzzC3mUSTS8B2_tmzQ92g?version=1",
+                    "version_number": 1,
+                    "last_modified_time": "2025-02-26T07:54:03.0000000Z",
+                    "last_modified_user": "Eyal Tzroya",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "Нет данных"
+                }
+            ]
+        },
+        {
+            "name": "SBB_URS.rvt",
+            "id": "urn:adsk.wipprod:dm.lineage:gRKgG9KcQLGXUqpZoz9w3A",
+            "versions": [
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.gRKgG9KcQLGXUqpZoz9w3A?version=2",
+                    "version_number": 2,
+                    "last_modified_time": "2025-01-27T10:58:15.0000000Z",
+                    "last_modified_user": "Rina Cohen",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6d2lwLmRtLnByb2QvZWY4ZjcwNDItYTViNi00M2Q4LWI1ZDEtNWZhYmRkMzBmZTllLnJ2dA"
+                },
+                {
+                    "version_id": "urn:adsk.wipprod:fs.file:vf.gRKgG9KcQLGXUqpZoz9w3A?version=1",
+                    "version_number": 1,
+                    "last_modified_time": "2025-01-27T10:55:04.0000000Z",
+                    "last_modified_user": "Rina Cohen",
+                    "published_time": "Не опубликовано",
+                    "published_user": "Не опубликовано",
+                    "process_state": "Неизвестно",
+                    "urn": "Нет данных"
+                }
+            ]
+        }
+    ]
+}

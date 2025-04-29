@@ -1,0 +1,1931 @@
+[
+    {
+        "name": "BLD",
+        "role": "3d",
+        "guid": "a789963a-32e0-a98e-b958-6e542789369a",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "BLD+BSM",
+        "role": "3d",
+        "guid": "534169ba-ce10-40fa-ff73-9a9c28347c7c",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "New Construction",
+        "role": "3d",
+        "guid": "4477ad50-3d67-9a71-c414-360b2e477321",
+        "isMasterView": true,
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L3(sheet)",
+        "role": "2d",
+        "guid": "bf89d194-758c-4d23-8c21-479d10a0f99c",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L4(sheet)",
+        "role": "2d",
+        "guid": "cb799347-c382-445f-b00d-1fe48b0d5fe8",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L5(sheet)",
+        "role": "2d",
+        "guid": "755ef184-a556-4857-b083-fc83466837f4",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L6(sheet)",
+        "role": "2d",
+        "guid": "a2b0a7c7-88fd-4723-bc2a-c02fa2cbe989",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L7(sheet)",
+        "role": "2d",
+        "guid": "ba9575d6-b9d4-4360-a3ec-178bcb474ef9",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L8(sheet)",
+        "role": "2d",
+        "guid": "f7b8b0e5-d13b-4213-bd33-c9aae601c7c0",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L9(sheet)",
+        "role": "2d",
+        "guid": "5c1ed206-f8bf-469f-bab9-ed87bfbeca4c",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L10(sheet)",
+        "role": "2d",
+        "guid": "5d1d44b0-ece7-4d35-b4d2-d3874fd17903",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L11(sheet)",
+        "role": "2d",
+        "guid": "6bfa5fb4-1690-437b-aad0-27e3351bbc66",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L12(sheet)",
+        "role": "2d",
+        "guid": "9ebfdcbd-5880-4c30-b737-e329cef6e2ee",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L13(sheet)",
+        "role": "2d",
+        "guid": "24de2cd1-cf5a-425e-84dd-88b1fffe534f",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L14(sheet)",
+        "role": "2d",
+        "guid": "b397fe19-0676-482c-aaec-7e2f0497dbb2",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L15(sheet)",
+        "role": "2d",
+        "guid": "5ba87830-9da4-4781-a7eb-9927ba625a07",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L16(sheet)",
+        "role": "2d",
+        "guid": "8b44c8bd-299f-463e-8d25-a6326a97d472",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L17(sheet)",
+        "role": "2d",
+        "guid": "d79691be-ce9e-43b4-aedf-999fb22283ab",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L18(sheet)",
+        "role": "2d",
+        "guid": "17114c59-65ba-41b6-a838-6c68fe20061e",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L19(sheet)",
+        "role": "2d",
+        "guid": "b7130ef4-22b4-4ca8-8eca-c2946c2d4020",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L20(sheet)",
+        "role": "2d",
+        "guid": "422bc410-b288-4eb7-92b8-30eaddd76be0",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L21(sheet)",
+        "role": "2d",
+        "guid": "f85031b7-51c1-41fb-a72a-6e1634861470",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L22(sheet)",
+        "role": "2d",
+        "guid": "86cfe212-0df1-49c8-a5b3-c2b12056a024",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L23(sheet)",
+        "role": "2d",
+        "guid": "79519d0b-6f1e-4fa0-8dbd-3c61b51c712b",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L24(sheet)",
+        "role": "2d",
+        "guid": "a8f49c08-ee93-423f-893e-8578578098ce",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_L25(sheet)",
+        "role": "2d",
+        "guid": "3d569d7d-69c9-4b9b-9145-cf7cc2168295",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "600-601-602_RF(sheet)",
+        "role": "2d",
+        "guid": "13edc981-b82c-4fdf-b8af-d8a0abd1e9ea",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "001 - Unnamed",
+        "role": "2d",
+        "guid": "1e3258a4-0c79-4374-81d1-390d5c1cfde9",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 1
+    },
+    {
+        "name": "{3D}",
+        "role": "3d",
+        "guid": "3fbecbec-9094-960e-7258-38bc8f4daabf",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_000.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "SYS_3D",
+        "role": "3d",
+        "guid": "0c163612-2fa1-d066-15b5-2bd31b566f80",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "HSD-AR-BLD100-101 - תכנית קומה 1",
+        "role": "2d",
+        "guid": "30e14749-6b88-4453-b398-abfdeb75db3b",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "HSD-AR-BLD100-102 - תכנית קומה 2",
+        "role": "2d",
+        "guid": "1a4f0348-000f-4edb-a2fa-448fe800bf64",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "HSD-AR-BLD100-103 - תכנית קומה 3",
+        "role": "2d",
+        "guid": "62a28bdb-66ed-4ffe-a929-7a6cc809d1b0",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "HSD-AR-BLD100-104 - תכנית קומה 4",
+        "role": "2d",
+        "guid": "8afd1657-1273-488b-9747-73ba1067ad30",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "HSD-AR-BLD100-105 - תכנית קומה 5",
+        "role": "2d",
+        "guid": "afa5303c-082e-42c5-8ae0-c9cc4a910c61",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "HSD-AR-BLD100-106 - תכנית קומה 6",
+        "role": "2d",
+        "guid": "a546a325-7290-405f-b5d8-fe4eb14f486d",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "HSD-AR-BLD100-107 - תכנית קומה 7",
+        "role": "2d",
+        "guid": "7ed609d0-6ca4-4359-a93f-b565ddb54268",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "HSD-AR-BLD100-108 - תכנית קומה 8",
+        "role": "2d",
+        "guid": "67efec85-c81a-43d5-b075-5a73ab167953",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "HSD-AR-BLD100-109 RF- תכנית קומת גג",
+        "role": "2d",
+        "guid": "f764a434-7b98-4b38-9de2-030f64d90ea2",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "HSD-AR-BLD100-109 RT- תכנית קומת גג עליון",
+        "role": "2d",
+        "guid": "c3537b67-19c1-4dd2-8b27-40236e9e718d",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "PE_108 - גיליון נתונים דירות מפלס 1",
+        "role": "2d",
+        "guid": "608ba544-c1e1-4e79-aec4-4a32f945a11a",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "PE_109 - גיליון נתונים דירות מפלס 2",
+        "role": "2d",
+        "guid": "ca2a8e13-4afa-4413-a3d1-3448e0a04a0d",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "PE_110 - גיליון נתונים דירות מפלס 3",
+        "role": "2d",
+        "guid": "d47a92d7-d0e7-496b-9975-b8f2c0492c0f",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "PE_111 - גיליון נתונים דירות מפלס 4",
+        "role": "2d",
+        "guid": "44f676f4-aae3-48f9-b01e-657ad67eb686",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "PE_112 - גיליון נתונים דירות מפלס 5",
+        "role": "2d",
+        "guid": "bbe4af95-c225-410a-8043-2141d63101ac",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "PE_113 - גיליון נתונים דירות מפלס 6",
+        "role": "2d",
+        "guid": "53f25d4f-702f-4fb4-9098-9d0ed5f55721",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "PE_114 - גיליון נתונים דירות מפלס 7",
+        "role": "2d",
+        "guid": "5fb9f16c-9f0c-45f0-920a-70fd4691dddf",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "PE_115 - גיליון נתונים דירות מפלס 8",
+        "role": "2d",
+        "guid": "fe006ecd-de95-4ff1-ad6a-397d4af902ee",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_100.rvt",
+        "version_number": 7
+    },
+    {
+        "name": "3D_BIM 360",
+        "role": "3d",
+        "guid": "dc8ff3db-8b23-5133-80ed-92d4c8f9b237",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "3D_BIM 360_AR ONLY",
+        "role": "3d",
+        "guid": "44d6e576-4a5d-bed1-2f30-c914fb393721",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "HSD-AR-BLD100-101 - תכנית קומה 1",
+        "role": "2d",
+        "guid": "9b47dfb1-314b-49a8-8817-43b896df8112",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "HSD-AR-BLD101-102 - תכנית קומה 2",
+        "role": "2d",
+        "guid": "8e5af623-ed41-4287-9440-bc0a88f13ddb",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "HSD-AR-BLD101-103 - תכנית קומה 3",
+        "role": "2d",
+        "guid": "327d73a0-ff41-4354-ae69-e2687e5e0dff",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "HSD-AR-BLD101-104 - תכנית קומה 4",
+        "role": "2d",
+        "guid": "b845cbdd-96f7-462e-adad-6e4d2a453bf7",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "HSD-AR-BLD101-105 - תכנית קומה 5",
+        "role": "2d",
+        "guid": "98e766a4-4447-4fb0-975d-3c3b4caec3e2",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "HSD-AR-BLD101-106 - תכנית קומה 6",
+        "role": "2d",
+        "guid": "1ea5d4a4-7f32-4215-88ed-935881ace047",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "HSD-AR-BLD101-107 - תכנית קומה 7",
+        "role": "2d",
+        "guid": "9f921cbb-c6e4-4248-a2b7-20ceb5f6d921",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "HSD-AR-BLD101-108 - תכנית קומה 8",
+        "role": "2d",
+        "guid": "6c7669f9-ae89-48b5-b503-f469b7517dad",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "HSD-AR-BLD101-109 RF- תכנית קומת גג",
+        "role": "2d",
+        "guid": "5160cfcf-6209-4a30-91ac-231707a94635",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "HSD-AR-BLD101-109 RT- תכנית קומת גג עליון",
+        "role": "2d",
+        "guid": "e859147b-203d-4b70-aec6-2212cbf1c540",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "SVK_101 - גיליון נתונים דירות מפלס 1",
+        "role": "2d",
+        "guid": "407b7a3e-422b-4617-886f-1ced0ae625cb",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "SVK_102 - גיליון נתונים דירות מפלס 2",
+        "role": "2d",
+        "guid": "0aac9f76-547b-4f15-ab67-c2a3b60599a3",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "SVK_103 - גיליון נתונים דירות מפלס 3",
+        "role": "2d",
+        "guid": "7c9bf93d-c400-4151-8200-d3da11a44a7d",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "SVK_104 - גיליון נתונים דירות מפלס 4",
+        "role": "2d",
+        "guid": "290dee1d-ed50-4199-a5e5-d883564af18d",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "SVK_105 - גיליון נתונים דירות מפלס 5",
+        "role": "2d",
+        "guid": "908a4684-17b0-4b6a-810a-4890436c1a7f",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "SVK_106 - גיליון נתונים דירות מפלס 6",
+        "role": "2d",
+        "guid": "2ee21a6f-4cf7-475f-a6fe-00188e2d746e",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "SVK_107 - גיליון נתונים דירות מפלס 7",
+        "role": "2d",
+        "guid": "08966fc3-b514-46ad-8671-4c6858fb38f1",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "SVK_108 - גיליון נתונים דירות מפלס 8",
+        "role": "2d",
+        "guid": "7fb98952-652b-495f-8267-fc1d7d8f554c",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "SVK_100 - תמהיל דירות",
+        "role": "2d",
+        "guid": "29ead8d9-3b44-4e7d-b1bb-ea782a8d6352",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "HSD-AR-BLD100-101 - תכנית קומה 1",
+        "role": "2d",
+        "guid": "177b401c-44fa-4109-a82c-194821b0a319",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "HSD-AR-BLD101-102 - תכנית קומה 2",
+        "role": "2d",
+        "guid": "523cfc49-072f-41d8-bbd3-0c827918d84c",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "HSD-AR-BLD101-103 - תכנית קומה 3",
+        "role": "2d",
+        "guid": "3310f8b8-d85e-4c98-a6c1-09265080a45a",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "HSD-AR-BLD101-104 - תכנית קומה 4",
+        "role": "2d",
+        "guid": "37c35ded-f992-4506-8dbb-240a4eeff788",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "HSD-AR-BLD101-105 - תכנית קומה 5",
+        "role": "2d",
+        "guid": "13783db6-fcf0-4755-87a8-f0bf5c07496f",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "HSD-AR-BLD101-106 - תכנית קומה 6",
+        "role": "2d",
+        "guid": "f43d24e6-18e9-430a-86ca-c2e5afed8517",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "HSD-AR-BLD101-107 - תכנית קומה 7",
+        "role": "2d",
+        "guid": "34da70b6-3341-45f3-8172-0772ef34f22f",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "HSD-AR-BLD101-108 - תכנית קומה 8",
+        "role": "2d",
+        "guid": "af58843b-0ebc-4d94-b767-04f86ba6f538",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "HSD-AR-BLD101-109 RF- תכנית קומת גג",
+        "role": "2d",
+        "guid": "b6ece3f3-3619-488c-adab-cca991c2844b",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "HSD-AR-BLD101-109 RT- תכנית קומת גג עליון",
+        "role": "2d",
+        "guid": "39127671-8feb-4418-b593-db4112a59f17",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "SVK_101 - גיליון נתונים דירות מפלס 1",
+        "role": "2d",
+        "guid": "81cbdb7c-7683-4a28-a482-6c7464116c5a",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "SVK_102 - גיליון נתונים דירות מפלס 2",
+        "role": "2d",
+        "guid": "71f2caf9-0304-4722-b5e9-9b169cdc25e1",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "SVK_103 - גיליון נתונים דירות מפלס 3",
+        "role": "2d",
+        "guid": "bda2c99c-34cb-49a5-8834-0dabdeb9f176",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "SVK_104 - גיליון נתונים דירות מפלס 4",
+        "role": "2d",
+        "guid": "fdb332dd-accc-4333-84f7-913ed516f782",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "SVK_105 - גיליון נתונים דירות מפלס 5",
+        "role": "2d",
+        "guid": "5aa51399-15f4-4781-9432-22f7dd1352b5",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "SVK_106 - גיליון נתונים דירות מפלס 6",
+        "role": "2d",
+        "guid": "a74b869a-f057-420b-b2b3-381843d1d647",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "SVK_107 - גיליון נתונים דירות מפלס 7",
+        "role": "2d",
+        "guid": "a3c4c18c-cf28-45e6-8033-dd94d090945a",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "SVK_108 - גיליון נתונים דירות מפלס 8",
+        "role": "2d",
+        "guid": "5862620a-c845-44f5-abab-b1c549ae1642",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "SVK_100 - תמהיל דירות",
+        "role": "2d",
+        "guid": "e2fb5a5f-35af-486a-a09e-ac435156b87e",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "HSD_AR_BLD102_101_תוכנית קומה 1",
+        "role": "2d",
+        "guid": "095f0d55-70fb-4851-909e-f3279108bbe7",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "HSD_AR_BLD102_102_תוכנית קומה 2",
+        "role": "2d",
+        "guid": "3cf82014-021c-4e30-8759-2e9a1ad91dad",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "HSD_AR_BLD102_103_תוכנית קומה 3",
+        "role": "2d",
+        "guid": "fe49773f-55cc-4da5-9dc6-3fec3cc82c64",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "HSD_AR_BLD102_104_תוכנית קומה 4",
+        "role": "2d",
+        "guid": "96774247-d195-4e14-8987-b5fb3a446b5a",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "HSD_AR_BLD102_105_תוכנית קומה 5",
+        "role": "2d",
+        "guid": "981afb16-5b65-43bc-a215-436e3c0c2712",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "HSD_AR_BLD102_106_תוכנית קומה 6",
+        "role": "2d",
+        "guid": "518c5374-5064-4a9e-9065-6fd41f2eba9e",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "HSD_AR_BLD102_107_תוכנית קומה 7",
+        "role": "2d",
+        "guid": "87568088-a9c8-4ae2-b0b3-b5020fd7453e",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "HSD_AR_BLD102_108_תוכנית קומה 8",
+        "role": "2d",
+        "guid": "6ef87426-0760-4cbf-8199-7e5bbedff1d7",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "HSD_AR_BLD102_109_תוכנית קומה 9",
+        "role": "2d",
+        "guid": "1146b651-e599-4c55-8aa1-eb2bfe33be6d",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "HSD_AR_BLD102_110_RF_תוכנית קומה גג",
+        "role": "2d",
+        "guid": "f90dbf2a-8f86-490f-8683-b911feca197d",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "HSD_AR_BLD102_111_RT_תוכנית קומה גג עליון",
+        "role": "2d",
+        "guid": "7b4a5d9d-991c-4ce5-97a3-cbaf9b385ceb",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "SVK_101 - גיליון נתונים דירות מפלס 1",
+        "role": "2d",
+        "guid": "4cb1776b-6446-46ff-ac28-832c86078c47",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "SVK_102 - גיליון נתונים דירות מפלס 2",
+        "role": "2d",
+        "guid": "a80877aa-9868-4a93-bbf5-fa8abf74ef3d",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "SVK_103 - גיליון נתונים דירות מפלס 3",
+        "role": "2d",
+        "guid": "3caa06bb-26c4-4cb7-9d9b-5771dc043827",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "SVK_104 - גיליון נתונים דירות מפלס 4",
+        "role": "2d",
+        "guid": "de4143f6-ff2b-4c2c-8f9a-150fbd2b7bcb",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "SVK_105 - גיליון נתונים דירות מפלס 5",
+        "role": "2d",
+        "guid": "0913f678-7189-4569-b1da-cbe6c25fee0e",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "SVK_106 - גיליון נתונים דירות מפלס 6",
+        "role": "2d",
+        "guid": "3eb9b6b6-ef9d-4a70-8c35-cf9d3a0834b8",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "SVK_107 - גיליון נתונים דירות מפלס 7",
+        "role": "2d",
+        "guid": "aec73cfe-57f6-4687-ad0c-584e7b9d4b32",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "SVK_108 - גיליון נתונים דירות מפלס 8",
+        "role": "2d",
+        "guid": "92a96644-f526-4f72-8108-ae639e89cfe6",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "SVK_109 - גיליון נתונים דירות מפלס 9",
+        "role": "2d",
+        "guid": "378b5fdd-4f30-45d2-a9a5-f5e938c4b310",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "SVK_100 - תמהיל דירות",
+        "role": "2d",
+        "guid": "6bcfd9c4-992d-4faa-99f9-8f14773ca41a",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_102.rvt",
+        "version_number": 17
+    },
+    {
+        "name": "{3D}",
+        "role": "3d",
+        "guid": "c3b7533e-5ea8-11b6-c717-3d1b1ef7f016",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_16.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "3D_BIM360_AR ONLY",
+        "role": "3d",
+        "guid": "8a63f258-86c6-2506-01c2-d9e2c1ca7a18",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_201.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "PE_102 - ‏תכנית קומה מפלס שצ\"פ",
+        "role": "2d",
+        "guid": "2b313449-a92b-416d-bf7c-c8b228c4c30b",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_201.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "PE_103 - ‏תכנית קומת קרקע - מפלס כיכר עירונית",
+        "role": "2d",
+        "guid": "e1321d78-ba16-479f-a97d-8d887431bae4",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_201.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "PE_104 - ‏תכנית קומה 1",
+        "role": "2d",
+        "guid": "6b68566a-e0ae-4cf3-89f0-7177172c399f",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_201.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "PE_105 - ‏תכנית קומה 2",
+        "role": "2d",
+        "guid": "21ddca26-4060-4246-b711-210937372a61",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_201.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "PE_106 - ‏תכנית גג",
+        "role": "2d",
+        "guid": "64699be7-e7ff-4624-a433-05dc70ae811f",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_201.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "PE_107 - ‏חתך א-א",
+        "role": "2d",
+        "guid": "eaa8f302-3836-437f-8ff3-79ca58789b52",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_201.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "PE_102 - ‏תכנית קומה מפלס שצ\"פ",
+        "role": "2d",
+        "guid": "7cb26314-b80c-440a-b0c0-1dfe0b00d8f1",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_201.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "PE_103 - ‏תכנית קומת קרקע - מפלס כיכר עירונית",
+        "role": "2d",
+        "guid": "6dbce12f-3b13-4b90-b8ef-35bdcce8ecb3",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_201.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "PE_104 - ‏תכנית קומה 1",
+        "role": "2d",
+        "guid": "5f022930-0b88-4a2a-b598-248e7d3013f4",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_201.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "PE_105 - ‏תכנית קומה 2",
+        "role": "2d",
+        "guid": "9be4614b-fda3-476f-80ed-a5f1f7a78afa",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_201.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "PE_106 - ‏תכנית גג",
+        "role": "2d",
+        "guid": "2499b128-10e0-4ddb-919a-12d940d4a7c9",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_201.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "PE_107 - ‏חתך א-א",
+        "role": "2d",
+        "guid": "e6849dd4-fd76-4bed-8b25-c6ac707d05a2",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_BLD_201.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "3D View_BIM 360",
+        "role": "3d",
+        "guid": "0578f60f-cbc1-6bb7-3b6c-46c41e13b216",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_AR_COMP.rvt",
+        "version_number": 30
+    },
+    {
+        "name": "{3D}",
+        "role": "3d",
+        "guid": "9746081a-1a2b-5145-faf9-9efe4fa582fc",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MHC.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "3D",
+        "role": "3d",
+        "guid": "16358892-2aef-b44e-77f3-176b6d812dda",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_CO_BLD_100.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "3D",
+        "role": "3d",
+        "guid": "7896eab0-e32e-3373-d400-0701967a9c45",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_CO_BLD_102.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "{3D}",
+        "role": "3d",
+        "guid": "9dd366f1-4eb9-dfb4-0cd8-f6218a9f6cab",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_EL_BLD_100.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "3D",
+        "role": "3d",
+        "guid": "fb9f8481-cb7d-598a-43cf-0671f5ab4587",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_FS_BSM.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "00 - Opening Sheet",
+        "role": "2d",
+        "guid": "79d3a932-6b34-4a90-bd08-48fcde63f2c5",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_100.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "H100 - Sheet Example",
+        "role": "2d",
+        "guid": "71733965-be0a-42ae-8813-d0d39743e919",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_100.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "00 - Opening Sheet",
+        "role": "2d",
+        "guid": "dee442e7-895b-4317-a3ac-a8fd249e3eb5",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "H100 - Sheet Example",
+        "role": "2d",
+        "guid": "2e2d8e8c-4d55-48e1-8b09-718b7d558ba2",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_101.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "00 - Opening Sheet",
+        "role": "2d",
+        "guid": "682c4bf3-4a49-4162-83f8-8db250f97e3b",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_102.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "H100 - Sheet Example",
+        "role": "2d",
+        "guid": "3d151c54-ca25-4ebe-8996-83b27b07e564",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_102.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "00 - Opening Sheet",
+        "role": "2d",
+        "guid": "25437774-bafc-445f-91e2-64ef5af491b9",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_400.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "H100 - Sheet Example",
+        "role": "2d",
+        "guid": "9a195ea2-1bdd-4fb8-ae26-d621260bb832",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_400.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "00 - Opening Sheet",
+        "role": "2d",
+        "guid": "2f9a9ef2-6216-44de-bbe6-994def3baa60",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_401.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "H100 - Sheet Example",
+        "role": "2d",
+        "guid": "b981507f-72bf-4ae1-acb4-704068e242f4",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_401.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "00 - Opening Sheet",
+        "role": "2d",
+        "guid": "415ec80f-2b09-49ec-984a-6baa4b058f1c",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_500.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "H100 - Sheet Example",
+        "role": "2d",
+        "guid": "cbade524-0664-472d-a777-f322660880a5",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_500.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "00 - Opening Sheet",
+        "role": "2d",
+        "guid": "f03db9ff-5c21-4f71-b0c3-5ee328bfa8e9",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_501.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "H100 - Sheet Example",
+        "role": "2d",
+        "guid": "e7076d1e-c4b3-490f-87d5-c85fd6c5f6da",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_501.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "00 - Opening Sheet",
+        "role": "2d",
+        "guid": "eaa0ac30-842f-466f-8630-ec2d4da6ff91",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_600.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "H100 - Sheet Example",
+        "role": "2d",
+        "guid": "384538fe-dd18-4683-927d-6cdf61d8e00b",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BLD_600.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "00 - Opening Sheet",
+        "role": "2d",
+        "guid": "83a9c095-9c10-4b33-a72c-b0c5fc9ca711",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BSM.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "H100 - Sheet Example",
+        "role": "2d",
+        "guid": "060f19b6-d38d-412c-8b0f-50271cb2a541",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_BSM.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "00 - Opening Sheet",
+        "role": "2d",
+        "guid": "8edba86c-0067-4d7e-8263-916c26060aea",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_FLR_A.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "H100 - Sheet Example",
+        "role": "2d",
+        "guid": "3053e704-0b08-4691-9a18-a47be728ef9a",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_MH_FLR_A.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "3D",
+        "role": "3d",
+        "guid": "74d7c8a3-f8e4-be3b-f900-9ef3c01cfe39",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_LD_BSM.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "{3D}",
+        "role": "3d",
+        "guid": "f1ea3de8-0465-b597-f929-52bcb45b03b3",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_PL_BSM.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "Level 5(4-14),רצפה _מים+ביוב",
+        "role": "2d",
+        "guid": "e9cf5db3-a65e-4b5f-a927-cca9e61fa2b1",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_PL_BLD_400.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "Level 3,רצפה _מים+ביוב",
+        "role": "2d",
+        "guid": "6a70e888-4915-485e-8bf2-ca54327a8d08",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_PL_BLD_400.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "Level 15,רצפה _מים+ביוב",
+        "role": "2d",
+        "guid": "cd262572-c12e-403a-aa55-43ee65ca53ca",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_PL_BLD_400.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "Level 16(16-20),רצפה _מים+ביוב",
+        "role": "2d",
+        "guid": "39def3da-b39e-461f-963d-3d9d58358ca8",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_PL_BLD_400.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "Level 21,רצפה _מים+ביוב",
+        "role": "2d",
+        "guid": "cee2dd82-5ced-4482-ba1f-3d4bc28fe001",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_PL_BLD_400.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "Level 22(22-24),רצפה _מים+ביוב",
+        "role": "2d",
+        "guid": "f9041657-38ba-454d-8c50-d15fefd98f87",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_PL_BLD_400.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "Level 25,רצפה _מים+ביוב",
+        "role": "2d",
+        "guid": "67b68870-dcba-4541-bece-5cc6c308a641",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_PL_BLD_400.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "3D",
+        "role": "3d",
+        "guid": "d38eff13-acfa-ac2c-8cf5-09f2511ae3aa",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_PL_BLD_500.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "3D",
+        "role": "3d",
+        "guid": "3c2a50e7-ed24-f0dc-9178-6f9ff902b3fa",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_PL_BLD_600.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "3D",
+        "role": "3d",
+        "guid": "f15d1eae-ffab-b26f-8e26-c182fbc9591d",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_PS_BSM.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "{3D}",
+        "role": "3d",
+        "guid": "6d05647c-3313-90a2-8044-d02677c8e5a4",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_100.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "600-601-602_L3(sheet)",
+        "role": "2d",
+        "guid": "f9ec48c3-fabd-4593-b991-b33a2c1b540b",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L4(sheet)",
+        "role": "2d",
+        "guid": "a17daa53-3466-4bbf-aa7a-7582f0b4e9d3",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L5(sheet)",
+        "role": "2d",
+        "guid": "a9d71158-6182-4c6c-affb-1da53bd8aeed",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L6(sheet)",
+        "role": "2d",
+        "guid": "387dbd73-6e33-4d68-bff6-96bbe21e712d",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L7(sheet)",
+        "role": "2d",
+        "guid": "b62c3d66-8af5-4fe8-b277-17135b6159a8",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L8(sheet)",
+        "role": "2d",
+        "guid": "cbd22932-1d3d-4afc-8c55-b1478be101a9",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L9(sheet)",
+        "role": "2d",
+        "guid": "d926ce7a-c291-450e-a0bc-32d08270e643",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L10(sheet)",
+        "role": "2d",
+        "guid": "e01e1980-4a06-4862-8de1-72c6a2f119b0",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L11(sheet)",
+        "role": "2d",
+        "guid": "bdf08cea-cf07-4419-811c-9432fbe704e2",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L12(sheet)",
+        "role": "2d",
+        "guid": "1092d4ac-78fb-4ce7-b9f4-79460d4a2f76",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L13(sheet)",
+        "role": "2d",
+        "guid": "4eed101e-968b-4fd4-8481-8175df0be68d",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L14(sheet)",
+        "role": "2d",
+        "guid": "fac2f5a2-f9c6-465e-8768-7f5dd55e00dd",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L15(sheet)",
+        "role": "2d",
+        "guid": "277d32eb-0fb1-4210-9f48-38236dd2b0dd",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L16(sheet)",
+        "role": "2d",
+        "guid": "98fea3da-99db-4218-b8b3-d99acda48d8f",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L17(sheet)",
+        "role": "2d",
+        "guid": "14ed6028-d4bb-444c-b06e-9423cd40a232",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L18(sheet)",
+        "role": "2d",
+        "guid": "d2bfd70f-6e03-4635-b3b7-fac1e2a8e71c",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L19(sheet)",
+        "role": "2d",
+        "guid": "5dd7cc42-3598-4c09-ad11-ac142f26ea68",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L20(sheet)",
+        "role": "2d",
+        "guid": "507d71c0-bbee-4456-bc85-32ef7f124ed8",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L21(sheet)",
+        "role": "2d",
+        "guid": "f31c8ea7-6dcf-4a6e-99d2-d7cff0cd518b",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L22(sheet)",
+        "role": "2d",
+        "guid": "a4f2bb93-0e1d-4d12-bd7c-93a6bd189b5f",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L23(sheet)",
+        "role": "2d",
+        "guid": "3098dc8c-cff3-450b-bf7e-3aabde433ed8",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L24(sheet)",
+        "role": "2d",
+        "guid": "d2cf7dea-dd9b-4d00-bf2c-4c2cfd5f689f",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L25(sheet)",
+        "role": "2d",
+        "guid": "abf1dca0-97b2-490a-be59-5cea20146420",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_RF(sheet)",
+        "role": "2d",
+        "guid": "8a060b9a-f6bb-480f-b984-60b8bc104d8c",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_RT(sheet)",
+        "role": "2d",
+        "guid": "37edb2ea-8496-430b-90e3-1ad7019ed041",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "F_17_(sheet)",
+        "role": "2d",
+        "guid": "e0821a93-3a6e-4cf9-a9e8-660cf9b6b693",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "001 - Unnamed",
+        "role": "2d",
+        "guid": "311207b2-d8d3-4824-b622-e472c72a6866",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 16
+    },
+    {
+        "name": "600-601-602_L3(#)",
+        "role": "2d",
+        "guid": "87b787bb-1df3-4706-95d1-24d3c02d903c",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L4(#)",
+        "role": "2d",
+        "guid": "fc635a65-99aa-413e-bf87-b003a45e6a46",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L5(#)",
+        "role": "2d",
+        "guid": "9b286116-7c37-4255-912a-43627c9d8898",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L7(#)",
+        "role": "2d",
+        "guid": "2359f09f-a54e-4a21-b195-aa5769940e5c",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L8(#)",
+        "role": "2d",
+        "guid": "53d3d113-504f-430e-ba44-6c2ea4aefe0b",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L9(#)",
+        "role": "2d",
+        "guid": "53e25259-6ebd-47a2-b08d-7f2c0c392192",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L10(#)",
+        "role": "2d",
+        "guid": "dd2160ba-e7c9-428e-8a46-826285feb5df",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L11(#)",
+        "role": "2d",
+        "guid": "0ad4b674-bbfb-4286-8ba9-571680445bdc",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L12(#)",
+        "role": "2d",
+        "guid": "eb0d49ae-9261-4cf6-b0f8-d9e6def59ade",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L13(#)",
+        "role": "2d",
+        "guid": "6fc450d7-53ea-4bca-b066-28f3a0953171",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L14(#)",
+        "role": "2d",
+        "guid": "06f90519-62d2-4c82-8170-61be78dbab27",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L15(#)",
+        "role": "2d",
+        "guid": "ef4eff50-a9c2-458a-975f-ff0b5c6112a6",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L16(#)",
+        "role": "2d",
+        "guid": "f083a9e2-9172-491e-99fe-af7c88f46432",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L17(#)",
+        "role": "2d",
+        "guid": "c8291d34-156b-46a8-982e-86db96b7fa1d",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L18(#)",
+        "role": "2d",
+        "guid": "3b123ff0-9da3-453c-805c-c83efd3c41ed",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L19(#)",
+        "role": "2d",
+        "guid": "a10c9d6b-a011-4784-93d8-3d58f0d1c1ae",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L20(#)",
+        "role": "2d",
+        "guid": "307886c1-cfd4-4dab-a450-cb9f85c0e5e5",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L21(#)",
+        "role": "2d",
+        "guid": "8d179c44-0fb5-4ce1-8c26-38e6278eda63",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L22(#)",
+        "role": "2d",
+        "guid": "019d6269-3673-473d-9675-a785b199bde4",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L23(#)",
+        "role": "2d",
+        "guid": "3e6e2f43-4dc5-476c-a950-97b264f03bd8",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L24(#)",
+        "role": "2d",
+        "guid": "7961e59f-d282-474b-aec6-bf24a20466b6",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L25(#)",
+        "role": "2d",
+        "guid": "323a9de8-c495-44f4-970a-7af9baa8edf1",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_RF(#)",
+        "role": "2d",
+        "guid": "0101f075-c2ec-48e9-a803-920dedfc96b0",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_RT(#)",
+        "role": "2d",
+        "guid": "20056b07-3dd3-420e-9e28-523ff9e48446",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "001 - Unnamed",
+        "role": "2d",
+        "guid": "c6b51730-1d95-4dd3-a26b-759575ffb885",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "600-601-602_L3(#)",
+        "role": "2d",
+        "guid": "4e76c387-3719-4a6b-b42b-36c3495f6002",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L4(#)",
+        "role": "2d",
+        "guid": "38e9747f-a93a-47cd-8431-0e3039951455",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L5(#)",
+        "role": "2d",
+        "guid": "8b52f79f-7f08-4866-a82c-f8f5cb8f4f33",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L7(#)",
+        "role": "2d",
+        "guid": "ad1c0f34-f1ed-44e8-9e18-f478899f4cc4",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L8(#)",
+        "role": "2d",
+        "guid": "21a96a2a-da30-4869-9be4-98e7e1d62cf0",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L9(#)",
+        "role": "2d",
+        "guid": "2bb74344-332f-40fd-95a9-4941edc9a0b0",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L10(#)",
+        "role": "2d",
+        "guid": "dc237a7d-e913-4756-ad64-98ccbd06c714",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L11(#)",
+        "role": "2d",
+        "guid": "8455663f-6be0-45b7-a84d-75ac4d036e0c",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L12(#)",
+        "role": "2d",
+        "guid": "e23fd94f-dacd-45b8-af5a-ee810714fdd7",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L13(#)",
+        "role": "2d",
+        "guid": "cd5c4ea5-9a80-43ad-ac87-26eae182264d",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L14(#)",
+        "role": "2d",
+        "guid": "3f754465-922a-40a3-a083-59702693c06a",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L15(#)",
+        "role": "2d",
+        "guid": "7bbf5549-e9ab-4ef4-a57f-2b2c56f62a09",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L16(#)",
+        "role": "2d",
+        "guid": "0ad5d3a9-c4e4-48ed-a475-520add807a4a",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L17(#)",
+        "role": "2d",
+        "guid": "ca83a58b-fa33-403a-b526-c896f6da5534",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L18(#)",
+        "role": "2d",
+        "guid": "fe9eb78c-ad7d-4600-b7a9-a009f915fa9c",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L19(#)",
+        "role": "2d",
+        "guid": "620a3b14-4223-49e4-8e57-b3c6f5549fec",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L20(#)",
+        "role": "2d",
+        "guid": "0bb8a720-9296-49c6-a597-9434a132289c",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L21(#)",
+        "role": "2d",
+        "guid": "82d6d38e-ad45-4f39-a3ae-7dc6e1d71f24",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L22(#)",
+        "role": "2d",
+        "guid": "606d4e82-e979-465b-884d-079c0ad6a1c1",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L23(#)",
+        "role": "2d",
+        "guid": "a9e5d3ff-c02a-45c3-835a-6daf51053313",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L24(#)",
+        "role": "2d",
+        "guid": "dbc2c17c-b5ec-49ec-a018-bc5cae89e0da",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_L25(#)",
+        "role": "2d",
+        "guid": "b3e1004a-e495-44d6-9556-e9b9de098fed",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_RF(#)",
+        "role": "2d",
+        "guid": "2f382532-d300-4973-971d-509bc6cd19a0",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "600-601-602_RT(#)",
+        "role": "2d",
+        "guid": "abebc044-2bf7-4fd7-b364-ed9bbd7a879a",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "001 - Unnamed",
+        "role": "2d",
+        "guid": "2375cdcc-8274-4c40-8354-11b61c391a94",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_ST_BLD_600.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "3D",
+        "role": "3d",
+        "guid": "dc0f2fe1-73ae-2fc9-e217-85e31da920fd",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_URS.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "3D",
+        "role": "3d",
+        "guid": "2ccabb3c-fea1-6d29-d940-cce423ca1089",
+        "project_name": "CONNECT_(R23)",
+        "file_name": "HSD_URS.rvt",
+        "version_number": 2
+    }
+]

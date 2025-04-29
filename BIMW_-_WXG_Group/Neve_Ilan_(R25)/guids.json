@@ -1,0 +1,74 @@
+[
+    {
+        "name": "{3D}",
+        "role": "3d",
+        "guid": "5a2e4877-fa05-6f45-d8bc-4ff0e3bacfc2",
+        "project_name": "Neve_Ilan_(R25)",
+        "file_name": "NIC_AR_Kitchen.rvt",
+        "version_number": 3
+    },
+    {
+        "name": "{3D}",
+        "role": "3d",
+        "guid": "3a5c417d-01d2-9243-1b64-c840ce3af6eb",
+        "project_name": "Neve_Ilan_(R25)",
+        "file_name": "NIC_AR_PERMIT.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "3D",
+        "role": "3d",
+        "guid": "9ff45a9a-e0ef-492f-9eed-dd7e0562af9d",
+        "project_name": "Neve_Ilan_(R25)",
+        "file_name": "NIC_CO_Main.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "3D",
+        "role": "3d",
+        "guid": "73d38fff-0665-dbf9-81ca-0a9e7f04a270",
+        "project_name": "Neve_Ilan_(R25)",
+        "file_name": "NIC_MHC.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "{3D}",
+        "role": "3d",
+        "guid": "f1ea3de8-0465-b597-f929-52bcb45b03b3",
+        "project_name": "Neve_Ilan_(R25)",
+        "file_name": "NIC_EL_MAIN.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "{3D}",
+        "role": "3d",
+        "guid": "8dc31cf3-cec7-9cbe-4438-7746b012002e",
+        "project_name": "Neve_Ilan_(R25)",
+        "file_name": "NIC_FS_MAIN.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "{3D}",
+        "role": "3d",
+        "guid": "b1796969-c74b-0582-ec75-d091aa2fabb8",
+        "project_name": "Neve_Ilan_(R25)",
+        "file_name": "NIC_PL_MAIN.rvt",
+        "version_number": 4
+    },
+    {
+        "name": "{3D}",
+        "role": "3d",
+        "guid": "37341b45-3d1c-1a07-ff84-c86d6c1fdb9e",
+        "project_name": "Neve_Ilan_(R25)",
+        "file_name": "NIC_ST_MAIN_R25.rvt",
+        "version_number": 2
+    },
+    {
+        "name": "3D",
+        "role": "3d",
+        "guid": "6ef3ed6d-4a1d-3d41-7d18-664f34ee90e0",
+        "project_name": "Neve_Ilan_(R25)",
+        "file_name": "NIC_URS.rvt",
+        "version_number": 2
+    }
+]

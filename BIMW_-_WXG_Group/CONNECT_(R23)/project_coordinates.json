@@ -1,0 +1,26 @@
+[
+    {
+        "north_south": "67325.0",
+        "east_west": "18527.5",
+        "elevation": "5500.0",
+        "angle_to_true_north": "2.55"
+    },
+    {
+        "north_south": "67325000.000",
+        "east_west": "18527500.000",
+        "elevation": "5500",
+        "angle_to_true_north": "2.55"
+    },
+    {
+        "north_south": "67325000.000",
+        "east_west": "18527500.000",
+        "elevation": "5500",
+        "angle_to_true_north": "2.55"
+    },
+    {
+        "north_south": "67325000.000",
+        "east_west": "18527500.000",
+        "elevation": "5500",
+        "angle_to_true_north": "2.55"
+    }
+]

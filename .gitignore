@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# Node
+node_modules/
+build/
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# System files
+.DS_Store
+
+# .env file
+.env
+
+# Игнорировать большие файлы
+backend/data/dataset_off.csv
+
+# Игнорировать весь backend/data/ (там только датасет_off.csv)
+backend/data/
+
+# Игнорировать временные json-файлы, кроме нужных данных
+# (если хочешь игнорировать только временные JSON, а не все данные)
+*.tmp.json
+# Игнорировать ВСЕ project_data.sqlite в папках проекта
+BIMW_-_WXG_Group/**/project_data.sqlite
+
+# Игнорировать ВСЕ большие файлы JSON
+BIMW_-_WXG_Group/**/properties.json

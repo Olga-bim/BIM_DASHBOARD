@@ -1,0 +1,76 @@
+/* === Общие настройки === */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f4f6f8;
+    scroll-behavior: smooth;
+  }
+  
+  /* === Стили для AppBar (MUI) === */
+  .MuiAppBar-root {
+    background-color: #0d1b2a !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  /* === Название сайта === */
+  .MuiTypography-root.nav-title {
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 1.4rem;
+    text-decoration: none;
+  }
+  
+  /* === Кнопки навигации === */
+  .nav-button {
+    color: #e0e0e0 !important;
+    font-size: 1rem;
+    text-transform: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+  }
+  
+  .nav-button:hover {
+    color: #ffffff !important;
+    background-color: rgba(255, 255, 255, 0.05);
+  }
+  
+  /* === Иконки === */
+  .nav-button .MuiButton-startIcon {
+    margin-right: 8px;
+  }
+  
+  .nav-button svg {
+    font-size: 1.2rem;
+  }
+  
+  /* === Контент под AppBar === */
+  .container {
+    margin-top: 90px;
+    padding-bottom: 40px;
+  }
+  
+  /* === Кнопки перевода === */
+  .lang-buttons {
+    margin-top: 10px;
+  }
+  
+  .lang-buttons button {
+    margin: 5px;
+    font-size: 0.85rem;
+    padding: 5px 10px;
+  }
+  
+  /* === Google Translate: скрытие логотипа и баннера === */
+  .goog-te-banner-frame.skiptranslate,
+  .goog-logo-link,
+  .goog-te-gadget span {
+    display: none !important;
+  }
+  
+  body {
+    top: 0 !important;
+  }
+  
