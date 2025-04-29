@@ -1,20 +1,8 @@
-# Используем официальный Node.js
-FROM node:16
+# Используем легкий nginx-образ
+FROM nginx:alpine
 
-# Устанавливаем рабочую директорию
-WORKDIR /app
+# Копируем production-билд внутрь контейнера
+COPY build/ /usr/share/nginx/html
 
-# Копируем package.json и package-lock.json
-COPY package*.json ./
-
-# Устанавливаем зависимости
-RUN npm install
-
-# Копируем весь код приложения
-COPY . .
-
-# Указываем порт
-EXPOSE 3000
-
-# Запуск приложения
-CMD ["npm", "start"]
+# Открываем 80 порт для nginx
+EXPOSE 80
